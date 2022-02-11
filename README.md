@@ -8,7 +8,7 @@ Embedded Projects:
 - [Easy-XC8](https://github.com/DaelonSuzuka/Easy-XC8) - A streamlined and powerful XC8 toolchain
 
 Godot plugins:
-- [SelectionShortcuts](https://github.com/DaelonSuzuka/SelectionShortcuts) - Editor workflow improvements your won't know how you lived without
+- [SelectionShortcuts](https://github.com/DaelonSuzuka/SelectionShortcuts) - Editor workflow improvements you won't know how you lived without
 - [Diagraph](https://github.com/DaelonSuzuka/Diagraph) - A dialog manager with a focus on clean workflow and unrestrained power
 
 Forked/Adopted Godot plugins:
