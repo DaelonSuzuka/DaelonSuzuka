@@ -5,7 +5,7 @@ I'm a software engineer specializing in embedded systems and desktop application
 Here are some of my notable projects:
 
 Embedded Projects:
-- [Easy-XC8](https://github.com/DaelonSuzuka/Easy-XC8) - A streamlined a powerful XC8 toolchain
+- [Easy-XC8](https://github.com/DaelonSuzuka/Easy-XC8) - A streamlined and powerful XC8 toolchain
 
 Godot plugins:
 - [Diagraph](https://github.com/DaelonSuzuka/Diagraph) - A dialog manager with a focus on clean workflow and unrestrained power
@@ -15,7 +15,7 @@ Forked/Adopted Godot plugins:
 - [HyperLogRedux](https://github.com/DaelonSuzuka/HyperLogRedux) - An unreasonably effective visual diagnostics library
 
 Qt/PySide2 Projects:
-- [Stagehand](https://github.com/DaelonSuzuka/Stagehand)
+- [Stagehand](https://github.com/DaelonSuzuka/Stagehand) - A digital "third hand" automation tool
 - [Octoprog](https://github.com/DaelonSuzuka/Octoprog) - A GUI wrapper for various command-line PIC programmers
 - [qtstrap](https://github.com/qtstrap/qtstrap) - A Qt application bootstrapping framework (available on pip/PyPI)
 
