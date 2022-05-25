@@ -5,7 +5,7 @@ I'm a software engineer specializing in embedded systems and desktop application
 Here are some of my projects:
 
 My Games:
-- [SkyKnights Online](https://github.com/DaelonSuzuka/SkyknightsOnline) - A multiplayer, competetive flight sim
+- [SkyKnights Online](https://github.com/DaelonSuzuka/SkyknightsOnline) - A multiplayer, competitive flight sim
 - [Isotope: ASH](link pls) - A modern homage to the Megaman Battle Network Series
 
 Qt/PySide2 Projects:
