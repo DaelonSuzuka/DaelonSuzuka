@@ -4,6 +4,10 @@ I'm a software engineer specializing in embedded systems and desktop application
 
 Here are some of my projects:
 
+My Games:
+- [SkyKnights Online](https://github.com/DaelonSuzuka/SkyknightsOnline) - A multiplayer, competetive flight sim
+- [Isotope: ASH](link pls) - A modern homage to the Megaman Battle Network Series
+
 Qt/PySide2 Projects:
 - [Stagehand](https://github.com/DaelonSuzuka/Stagehand) - A digital "third hand" automation tool, written in PySide2
 - [DeviceManager](https://github.com/DaelonSuzuka/DeviceManager) - An industrial automation tool for QA testing, written in PySide2
