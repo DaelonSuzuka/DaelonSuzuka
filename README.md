@@ -13,7 +13,7 @@ Qt/PySide2 Projects:
 - [DeviceManager](https://github.com/DaelonSuzuka/DeviceManager) - An industrial automation tool for QA testing, written in PySide2
 - [Octoprog](https://github.com/DaelonSuzuka/Octoprog) - A GUI wrapper for various command-line PIC programmers, written in PySide2
 - [qtstrap](https://github.com/qtstrap/qtstrap) - A Qt application bootstrapping framework (available on pip/PyPI)
-- [Codex Engine](https://github.com/Codex-Engine/codex-engine-pyqt) - A universal translation framework for serial devices, implemented for PyQt/PySide2
+- [Codex Engine](https://github.com/Codex-Engine/codex-engine-pyqt) - A universal translation framework for serial devices, implemented for PyQt/PySide2 (available on pip/PyPI)
 
 Embedded Projects:
 - [Easy-XC8](https://github.com/DaelonSuzuka/Easy-XC8) - A streamlined and powerful XC8 toolchain
