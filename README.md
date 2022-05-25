@@ -4,6 +4,13 @@ I'm a software engineer specializing in embedded systems and desktop application
 
 Here are some of my projects:
 
+Qt/PySide2 Projects:
+- [Stagehand](https://github.com/DaelonSuzuka/Stagehand) - A digital "third hand" automation tool, written in PySide2
+- [DeviceManager](https://github.com/DaelonSuzuka/DeviceManager) - An industrial automation tool for QA testing, written in PySide2
+- [Octoprog](https://github.com/DaelonSuzuka/Octoprog) - A GUI wrapper for various command-line PIC programmers, written in PySide2
+- [qtstrap](https://github.com/qtstrap/qtstrap) - A Qt application bootstrapping framework (available on pip/PyPI)
+- [Codex Engine](https://github.com/Codex-Engine/codex-engine-pyqt) - A universal translation framework for serial devices, implemented for PyQt/PySide2
+
 Embedded Projects:
 - [Easy-XC8](https://github.com/DaelonSuzuka/Easy-XC8) - A streamlined and powerful XC8 toolchain
 - [K42-Peripheral-Libraries](https://github.com/DaelonSuzuka/K42-Peripheral-Libraries)
@@ -11,13 +18,6 @@ Embedded Projects:
 - [K42-Project-Template](https://github.com/DaelonSuzuka/K42-Project-Template)
 - [JUDI](https://github.com/Codex-Engine/JUDI) - A general purpose serial protocol for interfacing between software and embedded systems.
 - [ArduinoJUDI](https://github.com/Codex-Engine/ArduinoJUDI) - And Arduino-compatible implementation of the JUDI serial protocol
-
-Qt/PySide2 Projects:
-- [Stagehand](https://github.com/DaelonSuzuka/Stagehand) - A digital "third hand" automation tool
-- [DeviceManager](https://github.com/DaelonSuzuka/DeviceManager)
-- [Octoprog](https://github.com/DaelonSuzuka/Octoprog) - A GUI wrapper for various command-line PIC programmers
-- [qtstrap](https://github.com/qtstrap/qtstrap) - A Qt application bootstrapping framework (available on pip/PyPI)
-- [Codex Engine](https://github.com/Codex-Engine/codex-engine-pyqt) - A universal translation framework for serial devices, implemented for PyQt/PySide2
 
 Godot plugins:
 - [SelectionShortcuts](https://github.com/DaelonSuzuka/SelectionShortcuts) - Editor workflow improvements you won't know how you lived without
