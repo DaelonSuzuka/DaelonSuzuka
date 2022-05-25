@@ -12,7 +12,7 @@ Qt/PySide2 Projects:
 - [Codex Engine](https://github.com/Codex-Engine/codex-engine-pyqt) - A universal translation framework for serial devices, implemented for PyQt/PySide2 (available on pip/PyPI)
 
 My Games:
-- [SkyKnights Online](https://github.com/DaelonSuzuka/SkyknightsOnline) - A multiplayer, competitive flight sim
+- [SkyKnights Online](https://github.com/DaelonSuzuka/SkyknightsOnline) - A multiplayer, competitive flight sim focused on unusual movement mechanics
 - [Isotope: ASH](link pls) - A modern homage to the Megaman Battle Network Series
 
 Embedded Projects:
