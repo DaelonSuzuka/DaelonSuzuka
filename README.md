@@ -13,7 +13,7 @@ Qt/PySide2 Projects:
 
 My Games:
 - [SkyKnights Online](https://github.com/DaelonSuzuka/SkyknightsOnline) - A multiplayer, competitive flight sim focused on unusual movement mechanics
-- [Isotope: ASH](link pls) - A modern homage to the Megaman Battle Network Series
+- [Isotope: ASH](https://store.steampowered.com/app/1793530/Isotope_ASH/) - A modern homage to the Megaman Battle Network Series
 
 Embedded Projects:
 - [Easy-XC8](https://github.com/DaelonSuzuka/Easy-XC8) - A streamlined and powerful XC8 toolchain
