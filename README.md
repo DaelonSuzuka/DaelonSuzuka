@@ -21,7 +21,7 @@ Embedded Projects:
 - [K42-System-Libraries](https://github.com/DaelonSuzuka/K42-System-Libraries)
 - [K42-Project-Template](https://github.com/DaelonSuzuka/K42-Project-Template)
 - [JUDI](https://github.com/Codex-Engine/JUDI) - A general purpose serial protocol for interfacing between software and embedded systems.
-- [ArduinoJUDI](https://github.com/Codex-Engine/ArduinoJUDI) - And Arduino-compatible implementation of the JUDI serial protocol
+- [ArduinoJUDI](https://github.com/Codex-Engine/ArduinoJUDI) - An Arduino-compatible implementation of the JUDI serial protocol
 
 Godot plugins:
 - [SelectionShortcuts](https://github.com/DaelonSuzuka/SelectionShortcuts) - Editor workflow improvements you won't know how you lived without
