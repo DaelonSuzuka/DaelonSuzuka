@@ -6,7 +6,6 @@ Here are some of my projects:
 
 Qt/PySide2 Projects:
 - [Stagehand](https://github.com/DaelonSuzuka/Stagehand) - A digital "third hand" automation tool, written in PySide2
-- [DeviceManager](https://github.com/DaelonSuzuka/DeviceManager) - An industrial automation tool for QA testing, written in PySide2
 - [Octoprog](https://github.com/DaelonSuzuka/Octoprog) - A GUI wrapper for various command-line PIC programmers, written in PySide2
 - [qtstrap](https://github.com/qtstrap/qtstrap) - A Qt application bootstrapping framework (available on pip/PyPI)
 - [Codex Engine](https://github.com/Codex-Engine/codex-engine-pyqt) - A universal translation framework for serial devices, implemented for PyQt/PySide2 (available on pip/PyPI)
