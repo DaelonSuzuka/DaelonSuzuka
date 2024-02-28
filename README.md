@@ -4,6 +4,9 @@ I'm a software engineer specializing in embedded systems and desktop application
 
 Here are some of my projects:
 
+VSCode Extensions:
+- [godot-tools](https://marketplace.visualstudio.com/items?itemName=geequlim.godot-tools) - The official extension for writing GDScript in VSCode
+
 Qt/PySide2 Projects:
 - [Stagehand](https://github.com/DaelonSuzuka/Stagehand) - A digital "third hand" automation tool, written in PySide2
 - [Octoprog](https://github.com/DaelonSuzuka/Octoprog) - A GUI wrapper for various command-line PIC programmers, written in PySide2
