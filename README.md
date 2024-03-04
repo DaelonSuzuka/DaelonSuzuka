@@ -28,6 +28,8 @@ Embedded Projects:
 Godot plugins:
 - [SelectionShortcuts](https://github.com/DaelonSuzuka/SelectionShortcuts) - Editor workflow improvements you won't know how you lived without
 - [Diagraph](https://github.com/DaelonSuzuka/Diagraph) - A dialog manager with a focus on clean workflow and unrestrained power
+- [OmniLaunch](https://github.com/DaelonSuzuka/OmniLaunch) - Launch multiple instances of your game and pass custom command line arguments to each one.
+- [Consulate](https://github.com/DaelonSuzuka/consulate) - An ingame dropdown console with powerful REPL debugging features
 
 Forked/Adopted Godot plugins:
 - [CommandPaletteRedux](https://github.com/DaelonSuzuka/CommandPaletteRedux) - A VSCode style command palette in Godot
