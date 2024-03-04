@@ -14,8 +14,8 @@ My Games:
 - [Isotope: ASH](https://store.steampowered.com/app/1793530/Isotope_ASH/) - A modern homage to the Megaman Battle Network Series
 
 Godot plugins:
-- [SelectionShortcuts](https://github.com/DaelonSuzuka/SelectionShortcuts) - Editor workflow improvements you won't know how you lived without
 - [Diagraph](https://github.com/DaelonSuzuka/Diagraph) - A dialog manager with a focus on clean workflow and unrestrained power
+- [SelectionShortcuts](https://github.com/DaelonSuzuka/SelectionShortcuts) - Editor workflow improvements you won't know how you lived without
 - [OmniLaunch](https://github.com/DaelonSuzuka/OmniLaunch) - Launch multiple instances of your game and pass custom command line arguments to each one.
 - [Consulate](https://github.com/DaelonSuzuka/consulate) - An ingame dropdown console with powerful REPL debugging features
 
