@@ -23,7 +23,7 @@ Forked/Adopted Godot plugins:
 - [CommandPaletteRedux](https://github.com/DaelonSuzuka/CommandPaletteRedux) - A VSCode style command palette in Godot
 - [HyperLogRedux](https://github.com/DaelonSuzuka/HyperLogRedux) - An unreasonably effective visual diagnostics library
 
-- Qt/PySide2 Projects:
+Qt/PySide2 Projects:
 - [Stagehand](https://github.com/DaelonSuzuka/Stagehand) - A digital "third hand" automation tool, written in PySide2
 - [Octoprog](https://github.com/DaelonSuzuka/Octoprog) - A GUI wrapper for various command-line PIC programmers, written in PySide2
 - [qtstrap](https://github.com/qtstrap/qtstrap) - A Qt application bootstrapping framework (available on pip/PyPI)
