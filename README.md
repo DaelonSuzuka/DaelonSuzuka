@@ -26,9 +26,9 @@ Forked/Adopted Godot plugins:
 Qt/PySide2 Projects:
 - [Stagehand](https://github.com/DaelonSuzuka/Stagehand) - A digital "third hand" automation tool, written in PySide2
 - [Octoprog](https://github.com/DaelonSuzuka/Octoprog) - A GUI wrapper for various command-line PIC programmers, written in PySide2
-- [qtstrap](https://github.com/qtstrap/qtstrap)([pypi link](https://pypi.org/project/qtstrap/)) - A Qt application bootstrapping framework
-- [Codex Engine](https://github.com/Codex-Engine/codex-engine-pyqt)([pypi link](https://pypi.org/project/codex-engine-pyqt/)) - A universal translation framework for serial devices, implemented for PyQt/PySide2
-- [MonacoQt](https://github.com/DaelonSuzuka/monaco-qt)([pypi link](https://pypi.org/project/monaco-qt/)) - Use the Monaco text editor in your Qt applications
+- [qtstrap](https://github.com/qtstrap/qtstrap) ([pypi link](https://pypi.org/project/qtstrap/)) - A Qt application bootstrapping framework
+- [Codex Engine](https://github.com/Codex-Engine/codex-engine-pyqt) ([pypi link](https://pypi.org/project/codex-engine-pyqt/)) - A universal translation framework for serial devices, implemented for PyQt/PySide2
+- [MonacoQt](https://github.com/DaelonSuzuka/monaco-qt) ([pypi link](https://pypi.org/project/monaco-qt/)) - Use the Monaco text editor in your Qt applications
 
 Embedded Projects:
 - [Easy-XC8](https://github.com/DaelonSuzuka/Easy-XC8) - A streamlined and powerful XC8 toolchain
