@@ -5,6 +5,7 @@ I'm a software engineer specializing in embedded systems and desktop application
 Here are some of my projects:
 
 VSCode Extensions:
+- [NiceGUI](https://marketplace.visualstudio.com/items?itemName=DaelonSuzuka.nicegui) ([repo](https://github.com/DaelonSuzuka/nicegui-vscode)) - Provides syntax highlighting and completions for the [NiceGUI](https://github.com/zauberzeug/nicegui) web framework
 - [godot-tools](https://marketplace.visualstudio.com/items?itemName=geequlim.godot-tools) ([repo](https://github.com/godotengine/godot-vscode-plugin)) - The official extension for writing GDScript in VSCode
 - [Cog Highlighter](https://marketplace.visualstudio.com/items?itemName=DaelonSuzuka.cog) ([repo](https://github.com/DaelonSuzuka/cog-vscode)) - Provides syntax highlighting for [Cog](https://nedbatchelder.com/code/cog/) blocks in C/C++ code
 - [Cyberlang](https://marketplace.visualstudio.com/items?itemName=DaelonSuzuka.cyber) ([repo](https://github.com/DaelonSuzuka/cyber-vscode)) - Provides syntax highlighting for the [Cyber](https://cyberscript.dev) programming language
