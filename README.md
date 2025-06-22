@@ -1,8 +1,12 @@
 ### Hi there 👋
 
-I'm a software engineer specializing in embedded systems and desktop applications using Qt/PySide2 and Godot.
+I'm a software engineer specializing in embedded systems and desktop applications using Qt/PySide2, NiceGUI, and Godot.
 
 Here are some of my projects:
+
+NiceGUI Projects:
+- [NiceGUI Command Palette]([https://pypi.org/project/nicegui-command-palette/](https://github.com/DaelonSuzuka/nicegui-command-palette)) ([pypi link](https://pypi.org/project/nicegui-command-palette/)- Python package that provides a Sublime Text/VSCode style command palette in NiceGUI applications
+- [NiceGUI Playground](https://playground.daelon.net) ([repo](https://github.com/DaelonSuzuka/nicegui-playground)) - An interactive playground for quick NiceGUI prototyping + understanding the generated HTML/Vue
 
 VSCode Extensions:
 - [NiceGUI](https://marketplace.visualstudio.com/items?itemName=DaelonSuzuka.nicegui) ([repo](https://github.com/DaelonSuzuka/nicegui-vscode)) - Provides syntax highlighting and completions for the [NiceGUI](https://github.com/zauberzeug/nicegui) web framework
