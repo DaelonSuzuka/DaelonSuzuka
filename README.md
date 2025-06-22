@@ -5,7 +5,7 @@ I'm a software engineer specializing in embedded systems and desktop application
 Here are some of my projects:
 
 NiceGUI Projects:
-- [NiceGUI Command Palette]([https://pypi.org/project/nicegui-command-palette/](https://github.com/DaelonSuzuka/nicegui-command-palette)) ([pypi link](https://pypi.org/project/nicegui-command-palette/)- Python package that provides a Sublime Text/VSCode style command palette in NiceGUI applications
+- [NiceGUI Command Palette]([https://pypi.org/project/nicegui-command-palette] (https://github.com/DaelonSuzuka/nicegui-command-palette)) ([pypi link](https://pypi.org/project/nicegui-command-palette/)- Python package that provides a Sublime Text/VSCode style command palette in NiceGUI applications
 - [NiceGUI Playground](https://playground.daelon.net) ([repo](https://github.com/DaelonSuzuka/nicegui-playground)) - An interactive playground for quick NiceGUI prototyping + understanding the generated HTML/Vue
 
 VSCode Extensions:
